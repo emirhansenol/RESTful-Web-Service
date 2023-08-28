@@ -1,6 +1,6 @@
 # RESTful Web Service
 
-A simple Web Service developed using Flask framework and Python language that will take an address and respond with info of nearby restaurants.
+A simple Web Service developed using Flask that will take an address and respond with info of nearby restaurants.
 
 The web service to takes HTTP requests with address parameters and responds with a list popular restaurants nearby.
 
