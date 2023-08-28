@@ -1,8 +1,6 @@
 # RESTful Web Service
 
-A simple Web Service developed using Flask that will take an address and respond with info of nearby restaurants.
-
-The web service then takes HTTP requests with address parameters and responds with a list of popular restaurants nearby.
+This web service takes HTTP requests with address parameters and responds with a list of popular restaurants nearby.
 
 The following two APIs are used to accomplish this task.
 
